@@ -1,1 +1,14 @@
 theme: jekyll-theme-midnight
+
+# Site settings
+title: Conceptualizing Testing
+email:
+description: Community Site
+baseurl:
+url:
+twitter_username:
+github_username:  sandra3120
+
+# Build settings
+markdown: kramdown
+permalink: pretty
